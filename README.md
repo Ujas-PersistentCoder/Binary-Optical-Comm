@@ -58,20 +58,14 @@ Look for a `threshold` value in the code and test with `analogRead()` to determi
 
 ## 📁 Files Included
 
-- `OptiComm.ino` – Arduino source code
-- `Project_Report.pdf` – Full project explanation and setup
+- `Elec_Project.ino` – Arduino source code
+- `Elec Project Report Ujas.pdf` – Full project explanation and setup
 
 ---
 
 ## 🎓 Project Information
 
+Course : Principles and Applications of Electrical Engineering
 This project was developed as part of a course at **IIT Gandhinagar**, aimed at building a basic light-based communication system using embedded hardware. It focuses on real-world problem-solving, system coordination, and application of theoretical concepts in a practical setting.
-
----
-
-## 🤝 About Me
-
-Created by **Ujas Shah** – CSE undergraduate at IIT Gandhinagar. I’m passionate about real-world problem solving, collaborative project development, and learning through hands-on engineering.  
-Let’s connect: [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ---
